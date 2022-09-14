@@ -1,0 +1,1 @@
+drop table Ogrenci --Tabloyu Siler tamamen
